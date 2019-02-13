@@ -1,0 +1,4 @@
+https://www.youtube.com/playlist?list=PLiRrp7UEG13a4DmYuNWHSoqLqNukEm9ua
+
+El Proyecto Ajio - Ajio se baso bajo este tutorial el cual nos ayudo a entender como
+funciona unity y fue nuestra guia en todo el proceso de la creacion del mismo.
